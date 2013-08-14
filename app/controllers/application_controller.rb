@@ -3,7 +3,7 @@ class ApplicationController < ActionController::Base
 
   =begin
     this is the place to test the git 
-
+    this is the append information
   =end
 
 end
