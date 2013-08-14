@@ -8,5 +8,10 @@ class PagesController < ApplicationController
   def SB
     #this is the test cases
   end
+  
+  def DASB
+    
+
+  end
 
 end
